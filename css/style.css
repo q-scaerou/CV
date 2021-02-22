@@ -1,0 +1,37 @@
+h1 {
+    color: #faf8f5;
+}
+
+#name {
+    font-weight: bold;
+    -webkit-text-stroke: 1px black;
+    font-size: 60px;
+    text-shadow: 0 0 0 black;
+    text-align: center;
+    font-variant: small-caps;
+}
+
+#function {
+    -webkit-text-stroke: 1px black;
+    font-size: 40px;
+    text-shadow: 0 0 0 black;
+    border-top: double;
+    border-color: #faf8f5;
+    text-align: center;
+}
+
+#menu {
+    background-color: #aba7a1;
+}
+
+#profpic {
+    height: auto;
+    max-width: 100%;
+    border-radius: 5px;
+    border: solid thin #343A40;
+    margin-right: auto;
+}
+
+#about {
+    padding-bottom: 200px;
+}
