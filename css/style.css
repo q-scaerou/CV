@@ -35,3 +35,11 @@ h1 {
 #about {
     padding-bottom: 200px;
 }
+
+.imgHide {
+    height: 0;
+}
+
+.imgShow {
+    height: auto;
+}
