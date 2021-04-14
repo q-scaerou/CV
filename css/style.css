@@ -36,8 +36,14 @@ h1 {
     padding-bottom: 200px;
 }
 
+.logoIcon {
+    height: 50px;
+    width: 50px;
+}
+
 .imgHide {
-    height: 0;
+    height: 50px;
+    width: 50px;
 }
 
 .imgShow {
