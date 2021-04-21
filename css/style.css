@@ -38,11 +38,11 @@ h1 {
 
 .logoIcon {
     height: 50px;
-    width: 50px;
+    width: auto;
 }
 
 .imgHide {
-    height: 0;
+    height: 0px;
 }
 
 .imgShow {

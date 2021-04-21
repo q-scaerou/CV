@@ -10,6 +10,7 @@ function showCGjs() {
     if (img.classList.contains('imgHide')) {
         img.classList.remove('imgHide');
         img.classList.add('imgShow');
+        console.log("plop");
     } else {
         img.classList.add('imgHide');
         img.classList.remove('imgShow');
