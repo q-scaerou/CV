@@ -14,6 +14,7 @@ function showCGjs() {
     } else {
         img.classList.add('imgHide');
         img.classList.remove('imgShow');
+        console.log("plap")
     }
 
 }
