@@ -6,7 +6,7 @@ h1 {
     font-weight: bold;
     -webkit-text-stroke: 1px black;
     font-size: 60px;
-    text-shadow: 0 0 0 black;
+    text-shadow: 0px 0px 10px black;
     text-align: center;
     font-variant: small-caps;
 }
@@ -14,7 +14,7 @@ h1 {
 #function {
     -webkit-text-stroke: 1px black;
     font-size: 40px;
-    text-shadow: 0 0 0 black;
+    text-shadow: 0px 0px 10px black;
     border-top: double;
     border-color: #faf8f5;
     text-align: center;
